@@ -1,0 +1,13 @@
+[include]
+./node_modules/
+
+[ignore]
+.*/node_modules/.*
+.*/coverage/.*
+.*/dist/.*
+.*\.spec\.js
+.*/src/cluster/.*
+<PROJECT_ROOT>/src/index.js
+
+[options]
+all=true

@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@justindfuller/verse-of-the-day": "^1.0.3",
+    "@types/node-fetch": "^3.0.3",
+    "@types/xml2js": "^0.4.9",
+    "bible-gateway-api": "^1.0.8",
+    "chapter-and-verse": "^3.0.4",
+    "cross-fetch": "^3.1.4",
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0",
+    "holy-bible": "^1.2.0",
+    "xml2js": "^0.4.23"
+  },
+  "name": "bible-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
